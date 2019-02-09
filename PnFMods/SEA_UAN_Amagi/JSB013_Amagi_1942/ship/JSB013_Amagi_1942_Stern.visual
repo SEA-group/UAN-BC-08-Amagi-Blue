@@ -1,1 +1,107 @@
-<JSB013_Amagi_1942_Stern.visual><boundingBox><min>-1.034372 -0.691012 -8.376421</min><max>1.028879 0.862717 -3.820730</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Stern_crack_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Stern_crack_MidBack_Bulges</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Stern_crack_MidBack_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern</node><geometry><vertices>SternShape.vertices</vertices><primitive>SternShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/bf639f5a7be3b7eee3af72601a667dc6.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_crack_MidBack</node><geometry><vertices>Stern_crack_MidBackShape.vertices</vertices><primitive>Stern_crack_MidBackShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/bf639f5a7be3b7eee3af72601a667dc6.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_crack_MidBack_Bulges</node><geometry><vertices>Stern_crack_MidBack_BulgesShape.vertices</vertices><primitive>Stern_crack_MidBack_BulgesShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/bd9267d561fb53bfcd2bdb87ecfa034f.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_crack_MidBack_in</node><geometry><vertices>Stern_crack_MidBack_inShape.vertices</vertices><primitive>Stern_crack_MidBack_inShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/9dcfd3e121e30ad9b6ce498ebed59508.mfm</mfm></material></primitiveGroup></geometry></renderSet></JSB013_Amagi_1942_Stern.visual>
+<JSB013_Amagi_1942_Stern.visual>
+	<boundingBox>
+		<min>	-1.034372 -0.691012 -8.376421	</min>
+		<max>	1.028879 0.862717 -3.820730	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Stern_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Stern_crack_MidBack_Bulges	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Stern_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern	</node>
+		<geometry>
+			<vertices>	SternShape.vertices	</vertices>
+			<primitive>	SternShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/JSB013_Amagi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_crack_MidBack	</node>
+		<geometry>
+			<vertices>	Stern_crack_MidBackShape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBackShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/JSB013_Amagi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_crack_MidBack_Bulges	</node>
+		<geometry>
+			<vertices>	Stern_crack_MidBack_BulgesShape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBack_BulgesShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/JSB013_Amagi_1942_Bugle.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	Stern_crack_MidBack_inShape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBack_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JSB013_Amagi_1942_Stern.visual>
