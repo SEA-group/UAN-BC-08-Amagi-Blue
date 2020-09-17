@@ -1,6 +1,6 @@
 <JD022_Director_Type_95_Mod1.model>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/director/JD022_Director_Type_95_Mod1_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/director/lods/JD022_Director_Type_95_Mod1_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.043107 0.000130 -0.067392	</min>

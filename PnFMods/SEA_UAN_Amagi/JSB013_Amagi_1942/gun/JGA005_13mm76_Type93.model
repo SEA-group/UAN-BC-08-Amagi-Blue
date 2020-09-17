@@ -1,6 +1,6 @@
 <JGA005_13mm76_Type93.model>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/gun/JGA005_13mm76_Type93_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/gun/lods/JGA005_13mm76_Type93_lod1	</parent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>
 	<visibilityBox>

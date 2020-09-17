@@ -1,6 +1,6 @@
 <JGM046_410mm45_Type3_dead.model>
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/gun/JGM046_410mm45_Type3_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/gun/lods/JGM046_410mm45_Type3_dead_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<exporter>	1.6	</exporter>
 	<nodefullVisual>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/gun/JGM046_410mm45_Type3_dead	</nodefullVisual>
