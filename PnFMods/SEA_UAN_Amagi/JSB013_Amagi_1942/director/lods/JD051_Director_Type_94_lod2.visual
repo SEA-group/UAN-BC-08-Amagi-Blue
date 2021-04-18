@@ -38,7 +38,7 @@
 			<primitive>	JD051_Director_Type_94_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/director/JD051_Director_Type_94.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -52,7 +52,7 @@
 			<primitive>	JD022_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_JD022	</identifier>
+					<identifier>	SHIPMATX_PBS_JD022	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/director/JD022_Director_Type_95_Mod1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

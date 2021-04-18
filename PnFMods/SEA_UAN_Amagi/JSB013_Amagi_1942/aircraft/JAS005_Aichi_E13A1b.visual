@@ -125,7 +125,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/aircraft/JAS005_Aichi_E13A1b_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

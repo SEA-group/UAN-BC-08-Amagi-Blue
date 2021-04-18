@@ -38,7 +38,7 @@
 			<primitive>	Director_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Amagi/JSB013_Amagi_1942/finder/JF027_Periscope_2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
